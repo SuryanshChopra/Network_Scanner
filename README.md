@@ -8,7 +8,7 @@ python network_scanner.py --help
 ```
 python network_scanner.py --target 192.168.1.1/24
 ```
-## Note: This code will work only for python2 but if you want to run it on python3
+### Note: This code will work only for python2 but if you want to run it on python3 then install the following modules
 ### Requirements:
 -> scapy-python3
 ```
